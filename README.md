@@ -1,1 +1,1 @@
-# MS_Excel_Projects
+This repository contains my work in Microsoft Excel.
